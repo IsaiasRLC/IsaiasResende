@@ -1,4 +1,4 @@
-Ola! Seja Bem-Vindo ao meu perfil🙃
+Ola! Seja Bem-Vindo ao meu perfil! \^o^/
 
 <div align="center">
   <a href="https://github.com/IsaiasRLC">
